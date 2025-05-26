@@ -1,8 +1,6 @@
 # ESP32-Remote-Power-On
 Control ESP32 to remotely power on the PC
 
-# ✅ 專案實作架構說明與問題解決總結
-
 # 主題：用手機透過 MAKE.com 遠端開門（控制 ESP32）**
 
 ---
