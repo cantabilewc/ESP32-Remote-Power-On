@@ -14,7 +14,7 @@ Control ESP32 to remotely power on the PC
       ↓
   ngrok（跑在筆電上）
       ↓
-  轉發請求到 ESP32 的 HTTP Server（在家中區域網）
+  轉發請求到 ESP32 的 HTTP Server（在家中區域網(筆電到家中路由器再傳到ESP32)）
       ↓
   ESP32 接收到 GET 請求後 → 控制 Servo 馬達開門
 ```
